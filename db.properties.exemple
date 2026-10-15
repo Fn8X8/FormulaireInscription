@@ -1,0 +1,4 @@
+
+db.url=jdbc:mariadb://localhost:3306/formulaire
+db.utilisateur=formulaire_app
+db.motDePasse=votre_mot_de_passe

@@ -1,0 +1,9 @@
+# Fichier contenant les mots de passe : ne jamais publier
+db.properties
+
+# Fichiers compilés générés par Eclipse
+bin/*.class
+src/.project
+src/.classpath
+bin/
+*.class
